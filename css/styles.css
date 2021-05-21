@@ -84,6 +84,9 @@ Navigation
 .nav-center {
   justify-content: space-between;
 }
+.nav-center .logo span {
+  color: var(--customColor);
+}
 .nav-center .nav-item:not(:last-child) {
   margin-right: 0.5rem;
 }
